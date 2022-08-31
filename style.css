@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.modo{
+
+}
+.ajustes{
+
+}
+section{
+    background-image: url("fondo de prueba.jpg");
+    padding: 10%;
+}
+article{
+ background-color: rgb(46, 44, 44);
+ color: rgb(17, 250, 5);
+ margin: 10%;
+ padding: 5%;
+ border: 0.2em solid rgb(17, 250, 5);
+ font-size: 1em;
+ font-family: 'Silkscreen', cursive;
+ 
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
