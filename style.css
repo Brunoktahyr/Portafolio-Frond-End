@@ -10,6 +10,8 @@ header{
 }
 section{
     background-image: url("fondo de prueba.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 10%;
 }
 article{
